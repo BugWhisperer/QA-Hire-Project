@@ -25,7 +25,7 @@ pipenv install
 behave
 ```
 
-Part B: API Project
+# Part B: API Project
 
 ```
 Please check API Project - test cases.md
